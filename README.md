@@ -8,7 +8,7 @@ This app is written in Ruby on Rails and deployed on Heroku.
 
 ## Setup
 
-You'll need a Ruby environment to run Rails.  First do:
+You'll need a Ru by environment to run Rails.  First do:
 
     $ rvm use .
     $ bundle install
